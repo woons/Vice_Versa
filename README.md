@@ -18,9 +18,9 @@
 + Carto or QGIS로 좌표정보 시각화 실습    
 
 ###### PARTⅢ : Choropleth Map의 제작과 인터랙티브
-+ 서울시 SHP 파일 구하기 (재료를 구해보자)
-+ 주제데이터 구하기 (서울시 2015년 화재발생 현황) [다운받기]
-+ dbf 파일포맷으로 Data Wrangling, R활용 [설치 참고]
++ 서울시 [SHP](https://github.com/southkorea/seoul-maps) 파일 구하기 (재료를 구해보자)
++ 주제데이터 구하기 (서울시 2015년 화재발생 현황) [다운받기](http://stat.seoul.go.kr/jsp3/stat.db.jsp?link=4&cot=021)
++ dbf 파일포맷으로 Data Wrangling, R활용[설치 참고](https://opentutorials.org/course/2071/11427)
 + QGIS에서 Choropleth Map 제작
 + 활용할 수 있도록 PDF로 변환해서 출력하기
 + d3.js or MAPBOX로 인터랙티브 맵핑 사례 
@@ -29,7 +29,7 @@
 
 ----
 설치 소프트웨어 목록 [미리 설치 부탁드립니다]  
-+ QGIS  
++ [QGIS](http://www.qgis.org/en/site/forusers/download.html)  
 + R & RStudio  
 + Illustrator  
 + Google 계정  

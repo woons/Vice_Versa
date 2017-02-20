@@ -4,8 +4,10 @@
 
 
 > Mac OS 기준으로 실습이 진행됩니다. GitHub에서 실습 코드와 데이터를 다운받을 수 있습니다  
-  오른쪽 상단에 녹색 clone&downloads   
-
+  오른쪽 상단에 녹색 clone&downloads  
+  
+![](https://github.com/woons/Vice_Versa/blob/master/Etc/sub.jpg)
+  
 ###### PARTⅠ : 맵핑의 기초
 + 맵핑의 유형
 + 위경도, 좌표계, 툴 등 기본 이해

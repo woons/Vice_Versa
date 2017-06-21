@@ -1,4 +1,4 @@
-### **Vice Versa Design Studio ‘Mapping Visualization’**  
+### **‘Mapping Visualization’**  
 
 * * *
 

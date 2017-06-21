@@ -2,6 +2,7 @@
 
 * * *
 
+=IMPORTHTML("https://en.wikipedia.org/wiki/World_population", "table", 14) =IMPORTXML("http://www.nytimes.com", "//h2[@class='story-heading']") 데이터 수집 실습1 : https://goo.gl/3oOvIx =IMPORTXML("http://score.sports.media.daum.net/record/baseball/kbo/brnk.daum", "//td[@class='txt_league']") 데이터 수집 실습2 : https://goo.gl/3oOvIx =IMPORTXML(A2, "//td[@class='post_subject']") 데이터 정제 실습2 : https://goo.gl/vvl5Dv (.+)
 
 > Mac OS 기준으로 실습이 진행됩니다. GitHub에서 실습 코드와 데이터를 다운받을 수 있습니다  
   오른쪽 상단에 녹색 clone&downloads  
